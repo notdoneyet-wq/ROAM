@@ -388,15 +388,21 @@ Open a Pull Request.
 
 Please keep contributions focused on meaningful improvements to reliability, usability, security, agent behavior, or travel-planning functionality.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Sagar
+**Sagar**  
+**AI/ML Developer · Open Source Enthusiast · Zenith School of AI**
 
-Built as an exploration of agentic AI, constraint-aware planning, tool use, grounding, secure AI systems, and adaptive travel experiences.
+<div align="center">
 
-<p align="center">
-🧭 ROAM
+### 🧭 Plan less. Explore more.
 
-Plan less. Explore more.
+**ROAM** is built around a simple idea:  
+travel planning shouldn't feel like planning.
 
-</p> 
+**Give it a destination. Give it constraints. Give it a vibe.**  
+**Let the agent figure out the journey.**
+
+⭐ If you find ROAM interesting, consider giving the repository a star.
+
+</div>
